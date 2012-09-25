@@ -11,7 +11,8 @@ http://supercollider.sourceforge.net/
 
 ### SCMIR library for SuperCollider
 
-http://www.sussex.ac.uk/Users/nc81/code.html 
+http://www.sussex.ac.uk/Users/nc81/code.html
+
 http://www.sussex.ac.uk/Users/nc81/code/SCMIR.zip (direct link)
 
 ### Drum samples
